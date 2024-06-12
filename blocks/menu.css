@@ -8,7 +8,6 @@
 }
 
 .menu__title {
-  font-family: "Inter", arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -19,9 +18,7 @@
 }
 
 .menu__subtitle {
-  font-family: "noto serif";
-  font-style: normal;
-  font-weight: normal;
+  font-family: "noto serif", arial, sans-serif;
   font-size: 20px;
   line-height: 30px;
   max-width: 780px;
@@ -41,8 +38,6 @@
 }
 
 .card__title {
-  font-family: "Inter", arial, sans-serif;
-  font-style: normal;
   font-weight: bold;
   font-size: 20px;
   line-height: 30px;
@@ -50,10 +45,8 @@
 }
 
 .card__list {
-  font-family: "noto serif";
-  font-style: normal;
+  font-family: "noto serif", arial, sans-serif;
   font-weight: normal;
-  font-size: 16px;
   line-height: 20px;
   padding: 0;
   display: flex;

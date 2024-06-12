@@ -25,9 +25,6 @@
   margin: 8px 0 0;
   box-sizing: border-box;
   border-radius: 4px;
-  font-family: "Inter", arial, sans-serif;
-  font-style: normal;
-  font-weight: normal;
   font-size: 20px;
   line-height: 30px;
   padding: 0 20px 0;
@@ -45,10 +42,7 @@
   height: 60px;
   margin-bottom: 32px;
   border-radius: 4px;
-  font-family: "Inter", arial, sans-serif;
   font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
   line-height: 20px;
   background-color: #2f80ed;
   color: #ffffff;
@@ -65,10 +59,7 @@
   column-gap: 12px;
   margin: 0;
   padding: 0;
-  font-family: "Inter", arial, sans-serif;
   font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
   line-height: 20px;
 }
 
