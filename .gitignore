@@ -1,0 +1,76 @@
+# .gitignore for cross-platform (Linux, macOS, Windows) and VSCode projects
+
+# VSCode settings directory
+.vscode/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Build output
+/dist/
+/build/
+
+# OS-specific files (Windows, macOS, Linux)
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+## Linux
+*~    # Backup files created by some editors (e.g., vim)
+*.swp  # Swap files created by editors like vim
+*.swo  # Swap files created by editors like vim
+
+# IDE-specific files
+.idea/
+
+# Package files
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+
+# VSCode extensions
+.vscode-test/
+
+# User-specific settings
+.settings/
+
+# Temporary files
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Windows Installer files (for cross-platform dev)
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Additional system files
+
+## Windows Installer logs
+*.log
+
+## JetBrains IDEs
+.idea/
+
+## VS Code workspace storage
+.vscode/
+
+# Linux trash and temporary files
+.Trash-*
