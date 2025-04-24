@@ -10,7 +10,11 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Flat BEM file structure
 - A custom form
 - CSS animation and transform
+- Hover: user interaction with elements throughout the page: forms and links
+- Keyframes, two videos embedded
 
 ## Plan on improving the project
 
-Add your ideas here :)
+1. Hyper link logos back to home page
+2. Link address to google maps software
+3. Create a take-out form
